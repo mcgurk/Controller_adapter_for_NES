@@ -53,18 +53,12 @@ void pulse() {
 
 
 void setup() {
-  // initialize digital pin LED_BUILTIN as an output.
-  //pinMode(LED_BUILTIN, OUTPUT);
+
   pinMode(2, INPUT);
   pinMode(3, INPUT);
-  //pinMode(2, INPUT_PULLUP);
-  //pinMode(3, INPUT_PULLUP);
-  //pinMode(4, OUTPUT);
-  //digitalWrite(4, HIGH);
   pinMode(8, OUTPUT);
   digitalWrite(8, HIGH);
   attachInterrupt(digitalPinToInterrupt(2), latch, RISING);
-  //attachInterrupt(digitalPinToInterrupt(3), pulse, RISING);
   attachInterrupt(digitalPinToInterrupt(3), pulse, FALLING);
 
   Wire.begin();
