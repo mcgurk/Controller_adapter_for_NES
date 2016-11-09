@@ -6,6 +6,8 @@ Works with normal Arduino with Atmega328P (5V 16MHz). I used Arduino Pro Mini.
 
 Lag under 1ms.
 
+Compatible with PAL (50Hz) and NTSC (60Hz) (NTSC support not tested).
+
 ## Connections
 
 ### Wii Classic Controller
