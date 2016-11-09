@@ -1,11 +1,11 @@
-//Uno/Pro Mini: SDA = A4, SCL = A5
-//Pro Micro: SDA = D2, SCL = D3
-//ESP8266: SDA = D2, SCL = D1
+// Uno/Pro Mini: SDA = A4, SCL = A5
+// Pro Micro: SDA = D2, SCL = D3
+// ESP8266: SDA = D2, SCL = D1
 
-//Pin 8 NES data (PORTB, bit 1) https://www.arduino.cc/en/Reference/PortManipulation
-//must be interrupt pins: https://www.arduino.cc/en/Reference/AttachInterrupt
-//Pin 2 NES latch
-//Pin 3 NES pulse
+// Pin 8 NES data (PORTB, bit 1) https://www.arduino.cc/en/Reference/PortManipulation
+// Latch and pulse must be interrupt pins: https://www.arduino.cc/en/Reference/AttachInterrupt
+// Pin 2 NES latch
+// Pin 3 NES pulse
 
 //#define DEBUG
 //#define DEBUG2
