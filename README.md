@@ -1,6 +1,4 @@
-# Controller_adapter_for_NES
-
-Wii Classic Controller to NES.
+# Wii Classic Controller to NES.
 
 Works with normal Arduino with Atmega328P (5V 16MHz). I used Arduino Pro Mini.
 
