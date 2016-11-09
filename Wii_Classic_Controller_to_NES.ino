@@ -61,7 +61,7 @@ void setup() {
   pinMode(8, OUTPUT);
   digitalWrite(8, HIGH);
   attachInterrupt(digitalPinToInterrupt(2), latch, RISING);
-  attachInterrupt(digitalPinToInterrupt(3), pulse, FALLING);
+  attachInterrupt(digitalPinToInterrupt(3), pulse, RISING);
 
   Wire.begin();
   Wire.setClock(300000L);
