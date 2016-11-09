@@ -63,6 +63,7 @@ void setup() {
 
   Wire.begin();
   Wire.setClock(300000L);
+  // Why Wire.setClock(400000L); works only in couple first reads? (After couple first reads it hangs)
   
   sendByte(0x55, 0xF0);
   sendByte(0x00, 0xFB);
