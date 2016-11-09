@@ -1,3 +1,4 @@
+// Wii extension controller / I2C
 // Uno/Pro Mini: SDA = A4, SCL = A5
 // Pro Micro: SDA = D2, SCL = D3
 // ESP8266: SDA = D2, SCL = D1
