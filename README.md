@@ -6,6 +6,8 @@ Lag under 1ms.
 
 Compatible with PAL (50Hz) and NTSC (60Hz) (NTSC support not tested).
 
+Arduino Pro Mini, AMS1117 regulator, signal voltage converter and Wii Classic Controller altogether 28mA.
+
 ## Connections
 
 ### Wii Classic Controller
