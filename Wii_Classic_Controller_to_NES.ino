@@ -2,6 +2,7 @@
 // Pro Micro: SDA = D2, SCL = D3
 // ESP8266: SDA = D2, SCL = D1
 
+// http://www.mit.edu/~tarvizo/nes-controller.html
 // Pin 8 NES data (PORTB, bit 1) https://www.arduino.cc/en/Reference/PortManipulation
 // Latch and pulse must be interrupt pins: https://www.arduino.cc/en/Reference/AttachInterrupt
 // Pin 2 NES latch
