@@ -10,6 +10,12 @@ Compatible with PAL (50Hz) and NTSC (60Hz) (NTSC support not tested).
 
 Arduino Pro Mini, AMS1117 regulator, signal voltage converter and Wii Classic Controller altogether 28mA.
 
+## Images
+
+https://github.com/mcgurk/Controller_adapter_for_NES/raw/master/Images/2016-11-10%2011.08.51.jpg
+
+https://github.com/mcgurk/Controller_adapter_for_NES/raw/master/Images/2016-11-10%2011.23.53.jpg
+
 ## Connections
 
 ### Wii Classic Controller (I2C)
