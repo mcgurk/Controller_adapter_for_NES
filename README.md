@@ -2,7 +2,7 @@
 
 # Wii Classic Controller to NES.
 
-Works with normal Arduino with Atmega328P (5V 16MHz). I used Arduino Pro Mini.
+Works with normal Arduino with Atmega328P (5V 16MHz). I used Arduino Pro Mini (doesn't include USB-port - needs USB-serial adapter for programming). Arduino Nano may be better option, because it includes USB-port.
 
 Lag under 1ms.
 
