@@ -34,7 +34,7 @@ Officially Wii extension controllers are 3.3V.  Might work with 5V. I used level
 - Pin 2 NES latch (OUT 0)
 - Pin 3 NES pulse (clock/CUP)
 
-Latch and pulse must be interrupt pins: https://www.arduino.cc/en/Reference/AttachInterrupt
+(Latch and pulse must be interrupt pins: https://www.arduino.cc/en/Reference/AttachInterrupt)
 
 ## Links
 
