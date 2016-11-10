@@ -22,9 +22,9 @@ https://github.com/mcgurk/Controller_adapter_for_NES/raw/master/Images/2016-11-1
 
 <a href="https://c2.staticflickr.com/8/7263/7085452395_c6897a4f2d_b.jpg"><img src="https://c2.staticflickr.com/8/7263/7085452395_c6897a4f2d_b.jpg" height="200"></a>
 
-Arduino Uno/Pro Mini: SDA = A4, SCL = A5
+Arduino Uno/Pro Mini (ATmega328P): SDA = A4, SCL = A5
 
-Pro Micro: SDA = D2, SCL = D3
+Leonardo/Pro Micro (ATmega32u4): SDA = D2, SCL = D3 (With ATmega32u4 you have to use some other pins for NES) 
 
 Officially Wii extension controllers are 3.3V.  Might work with 5V. I used level converter with 3.3V AMS1117 regulator. Search from Ebay with Logic Level Converter Module AMS1117 DC 5V to 3.3V
 
