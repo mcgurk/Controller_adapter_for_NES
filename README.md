@@ -18,7 +18,7 @@ https://github.com/mcgurk/Controller_adapter_for_NES/raw/master/Images/2016-11-1
 
 ## Connections
 
-### Wii Classic Controller (I2C)
+### Wii Classic Controller (I²C)
 
 <a href="https://c2.staticflickr.com/8/7263/7085452395_c6897a4f2d_b.jpg"><img src="https://c2.staticflickr.com/8/7263/7085452395_c6897a4f2d_b.jpg" height="200"></a>
 
