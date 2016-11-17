@@ -45,7 +45,7 @@ http://www.mit.edu/~tarvizo/nes-controller.html
 https://www.arduino.cc/en/Reference/PortManipulation
 
 
-## PAL NES clock signal
+## PAL vs NTSC NES clock signal
 PAL NES clock signal is differs from NTSC signal.
 
 Here is NTSC-signal (clock signal changes every 6µs): http://quinndunki.com/blondihacks/?p=1461
