@@ -1,6 +1,6 @@
 <a href="https://github.com/mcgurk/Controller_adapter_for_NES/raw/master/Images/Wii-Classic-Controller_Arduino_NES.jpg"><img src="https://github.com/mcgurk/Controller_adapter_for_NES/raw/master/Images/Wii-Classic-Controller_Arduino_NES.jpg" height="300"></a>
 
-# Wii Classic Controller to NES.
+# Wii Classic Controller to NES
 
 Works with normal Arduino with Atmega328P (5V 16MHz). I used Arduino Pro Mini (Arduino Pro Mini doesn't include USB-port - needs USB-serial adapter for programming). Arduino Nano may be better option, because it includes USB-port.
 
