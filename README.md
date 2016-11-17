@@ -56,3 +56,5 @@ Here is PAL-signal (clock signal goes down only for 250ns):
 ![PAL NES](https://github.com/mcgurk/Controller_adapter_for_NES/raw/master/Images/NES_PAL.jpg)
 
 ![PAL NES - one pulse](https://github.com/mcgurk/Controller_adapter_for_NES/blob/master/Images/NES_PAL_pulse.jpg)
+
+(signal captured with "CY7C68013A-56 EZ-USB FX2LP USB2.0 Develope Board Module Logic Analyzer EEPROM ME" and sigrok.org software)
